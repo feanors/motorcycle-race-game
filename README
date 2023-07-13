@@ -1,0 +1,5 @@
+***Difficulty means the degree of aggressiveness of enemy bikes blocking the driver***
+***I've removed the register JMenuItem in favor of only using Log-in JMenuItem, non registered usernames will automatically be registered through log-in***
+***At the beginning there are only four enemy bikes in appearance, they will appear- and disappear throughout the game based on players speed***
+***There basically isn't an ending to the game, the aggressiveness enemy bikes will keep increasing every check-point without a limit, there comes a point in the game that they are impossible to dodge***
+***There arent any visual indicators of check-points, but they come after every right turn, witch can be reached from the beggining in approx 50-52 seconds by going at full speed ***
